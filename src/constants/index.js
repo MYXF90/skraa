@@ -133,11 +133,11 @@ export const footerLinks = [
     links: [
       {
         name: "Twitter",
-        link: "https://twitter.com/",
+        link: "https://twitter.com/SkraaWifhat",
       },
       {
         name: "Telegram",
-        link: "https://t.me/",
+        link: "https://t.me/skraawifhat",
       },
       {
         name: "Github",
@@ -168,7 +168,7 @@ export const socialMedia = [
   {
     id: "social-media-1",
     icon: telegram,
-    link: "https://t.me/",
+    link: "https://t.me/skraawifhat",
   },
   {
     id: "social-media-2",
@@ -178,7 +178,7 @@ export const socialMedia = [
   {
     id: "social-media-3",
     icon: twitter,
-    link: "https://twitter.com/",
+    link: "https://twitter.com/SkraaWifhat",
   },
   {
     id: "social-media-4",

@@ -22,9 +22,9 @@ const CTA = () => (
       </div>
       <div className={`flex flex-row`}>
 
-      <Link to="/"><img src={telegram} alt="Skraa wif hat telegram" className="w-[150px] h-[150px] rounded-2xl m-10" /></Link>
+      <Link to="https://t.me/skraawifhat" target="_blank"><img src={telegram} alt="Skraa wif hat telegram" className="w-[150px] h-[150px] rounded-2xl m-10" /></Link>
 
-      <Link to="/"><img src={twitter} alt="Skraa wif hat twitter" className="w-[150px] h-[150px] rounded-2xl m-10" /></Link>
+      <Link to="https://twitter.com/SkraaWifhat" target="_blank"><img src={twitter} alt="Skraa wif hat twitter" className="w-[150px] h-[150px] rounded-2xl m-10" /></Link>
       </div>
 
     </section >

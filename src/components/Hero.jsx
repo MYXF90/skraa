@@ -19,8 +19,8 @@ const Hero = () => {
             Ting Goes <br className="sm:block hidden" />{" "}
             <span className="text-gradient">SKRAA</span>{" "}
           </h1>
-          <Link to="/"><img src={telegram} alt="Skraa wif hat telegram" className="w-[100px] h-[100px] rounded-2xl m-5" /></Link>
-      <Link to="/"><img src={twitter} alt="Skraa wif hat twitter" className="w-[100px] h-[100px] rounded-2xl m-5" /></Link>
+          <Link to="https://t.me/skraawifhat" target="_blank"><img src={telegram} alt="Skraa wif hat telegram" className="w-[100px] h-[100px] rounded-2xl m-5" /></Link>
+      <Link to="https://twitter.com/SkraaWifhat" target="_blank"><img src={twitter} alt="Skraa wif hat twitter" className="w-[100px] h-[100px] rounded-2xl m-5" /></Link>
         </div>
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
           Two plus two is four <br></br>
