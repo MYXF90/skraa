@@ -1,6 +1,6 @@
 import styles from "../style";
 import { robot, telegram, twitter } from "../assets";
-import { Link } from "react-router-dom"; 
+import { Link } from "react-router-dom";
 
 const Hero = () => {
   return (
@@ -10,7 +10,7 @@ const Hero = () => {
 
           <p className={`${styles.paragraph} ml-2`}>
             🚀<span className="text-gradient-yellow"> </span> Chart available on {" "}
-            <a href="https://dexscreener.com/solana" target="_blank" className="underline text-blue-700">Dexscreener</a>
+            <a href="https://dexscreener.com/solana/7kbe62i2bp3c7ubzhfpvujwurgiskwjuhfpbkre6zybu" target="_blank" className="underline text-blue-700">Dexscreener</a>
           </p>
         </div>
 
@@ -20,7 +20,7 @@ const Hero = () => {
             <span className="text-gradient">SKRAA</span>{" "}
           </h1>
           <Link to="https://t.me/skraawifhat" target="_blank"><img src={telegram} alt="Skraa wif hat telegram" className="w-[100px] h-[100px] rounded-2xl m-5" /></Link>
-      <Link to="https://twitter.com/SkraaWifhat" target="_blank"><img src={twitter} alt="Skraa wif hat twitter" className="w-[100px] h-[100px] rounded-2xl m-5" /></Link>
+          < Link to="https://twitter.com/SkraaWifhat" target="_blank"><img src={twitter} alt="Skraa wif hat twitter" className="w-[100px] h-[100px] rounded-2xl m-5" /></Link>
         </div>
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
           Two plus two is four <br></br>
@@ -40,9 +40,9 @@ const Hero = () => {
         <div className="absolute z-[1] w-[80%] h-[80%] rounded-full white__gradient bottom-40" />
         <div className="absolute z-[0] w-[50%] h-[50%] right-20 bottom-20 blue__gradient" />
         {/* gradient end */}
-        
+
       </div>
-      
+
 
     </section>
   );

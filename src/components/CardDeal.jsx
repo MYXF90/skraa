@@ -6,7 +6,7 @@ const CardDeal = () => (
   <section id="roadmap" className={layout.section}>
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>
-        Perspiration roadmap ting
+        Roadmap ting
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
         Lynx Effect (Come on) <br></br>

@@ -10,6 +10,10 @@ export const navLinks = [
     title: "Buy",
   },
   {
+    id: "token",
+    title: "You dunno",
+  },
+  {
     id: "nothot",
     title: "Man's not hot",
   },

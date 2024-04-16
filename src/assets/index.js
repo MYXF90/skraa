@@ -19,6 +19,7 @@ import people01 from "./people01.png";
 import people02 from "./people02.png";
 import people03 from "./people03.png";
 import people04 from "./people04.png";
+import orcaandskraa from "./orcaandskraa.png";
 
 export {
   bill,
@@ -42,4 +43,5 @@ export {
   people02,
   people03,
   people04,
+  orcaandskraa,
 };

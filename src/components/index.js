@@ -13,6 +13,8 @@ import CountdownTimer from "./CountdownTimer";
 import DateTimeDisplay from "./DateTimeDisplay";
 import SalePhase1 from "./SalePhase1";
 import Airdrop from "./Airdrop";
+import Token from "./Token";
+import TokenBuy from "./TokenBuy";
 
 export {
   Navbar,
@@ -30,4 +32,6 @@ export {
   DateTimeDisplay,
   SalePhase1,
   Airdrop,
+  Token,
+  TokenBuy,
 };
